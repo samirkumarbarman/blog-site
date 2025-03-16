@@ -1,0 +1,1 @@
+import * as postService from "../services/postService.js";
