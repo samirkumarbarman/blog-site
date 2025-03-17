@@ -2,10 +2,11 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "blog post backend",
-  "main": "server.js",
+  "main": "src/server.js",
   "type": "module",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node src/server.js"
   },
   "author": "samir kumar",
   "license": "ISC",
